@@ -7,6 +7,5 @@ ALGORITHM
 
 ************************
 알고리즘 문제풀이 사이트 링크
-백준 : [Baekjoon][Baekjoonlink]
-[Baekjoonlink]: https://www.acmicpc.net "acmicpc"
+백준: [Baekjoon](https://www.acmicpc.net, "acmicpc")
 

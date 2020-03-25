@@ -14,4 +14,4 @@ ALGORITHM
 
 [Algospot](https://www.algospot.com/)
 
-[samsung academy](https://swexpertacademy.com/)
+[Samsung academy](https://swexpertacademy.com/)

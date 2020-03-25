@@ -36,7 +36,7 @@ void print_all() {
 
 void solution() {
 	int temp[7][7];
-	for(int i = 0; i < 3; i++) {
+	for(int s = 0; s < 3; s++) {
 		for(int i = 0; i < N; i++) {
 			for(int j = 0; j < N; j++) {
 				temp[i][j] = adj[i][j];

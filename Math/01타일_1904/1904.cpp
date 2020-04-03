@@ -9,10 +9,13 @@ void get_info() {
 }
 
 int solution() {
+	if(N == 1) return 1;
+	if(N == 2) return 2;
 	int two, one, zero, id;
 	id = 2;
 	one = 2;
 	zero = 1;
+	two = one + zero;
 
 	while(id != N) {
 		two = (one + zero)%15746;
